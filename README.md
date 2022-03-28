@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Adilson Júnior, Contador e estudante de programação!
-
-<div align="center">
+<div>
 <a href="https://github.com/jhuunn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhuunn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuunn&layout=compact&langs_count=7&theme=tokyonight"/>
