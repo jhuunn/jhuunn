@@ -1,4 +1,4 @@
-### Olá! Eu sou o Adilson Júnior, Contador e estudante de programação!
+### Olá! Me chamo Adilson Júnior, sou Contador e estudante de programação!
 <div>
 <a href="https://github.com/jhuunn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhuunn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
